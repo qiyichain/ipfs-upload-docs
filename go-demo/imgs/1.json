@@ -1,0 +1,131 @@
+{
+    "color": "chestnut",
+    "name": "Founder Cat #10",
+    "offer": {},
+    "wrapped": true,
+    "image_url_png": "https://img.cryptokitties.co/0x06012c8cf97bead5deae237070f9587f8e7a266d/10.png",
+    "bio": "Mahalo! I'm Founder Cat #10. I believe the world is flat. When I'm not swiping right, I'm practicing witchcraft! Let's get busy!",
+    "birthday": "2017-11-23T00:00:00.000Z",
+    "hatcher": {
+      "twitter_image_url": null,
+      "twitter_id": null,
+      "twitter_handle": null,
+      "nickname": "COO",
+      "image": "2",
+      "hasDapper": false,
+      "address": "0xba52c75764d6f594735dc735be7f1830cdf58ddf"
+    },
+    "variation": null,
+    "sire": {},
+    "image_url_cdn": "https://img.cn.cryptokitties.co/0x06012c8cf97bead5deae237070f9587f8e7a266d/10.svg",
+    "purrs": {
+      "is_purred": false,
+      "count": 66
+    },
+    "is_exclusive": false,
+    "image_url": "https://img.cryptokitties.co/0x06012c8cf97bead5deae237070f9587f8e7a266d/10.svg",
+    "is_special_edition": false,
+    "prestige_type": null,
+    "watchlist": {
+      "is_watchlisted": false,
+      "count": 0
+    },
+    "language": "en",
+    "children": [],
+    "kitty_type": null,
+    "generation": 0,
+    "prestige_time_limit": null,
+    "created_at": "2017-11-23T06:20:44.000Z",
+    "fancy_type": null,
+    "variation_ranking": null,
+    "image_url_kitty_items": "https://img.cryptokitties.cohttps://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/10.items.svg",
+    "is_fancy": false,
+    "matron": {},
+    "enhanced_cattributes": [
+      {
+        "type": "colorprimary",
+        "position": null,
+        "kittyId": 10,
+        "description": "orangesoda"
+      },
+      {
+        "type": "coloreyes",
+        "position": null,
+        "kittyId": 10,
+        "description": "chestnut"
+      },
+      {
+        "type": "body",
+        "position": null,
+        "kittyId": 10,
+        "description": "ragamuffin"
+      },
+      {
+        "type": "colorsecondary",
+        "position": null,
+        "kittyId": 10,
+        "description": "royalpurple"
+      },
+      {
+        "type": "mouth",
+        "position": null,
+        "kittyId": 10,
+        "description": "soserious"
+      },
+      {
+        "type": "pattern",
+        "position": null,
+        "kittyId": 10,
+        "description": "jaguar"
+      },
+      {
+        "type": "eyes",
+        "position": null,
+        "kittyId": 10,
+        "description": "simple"
+      },
+      {
+        "type": "colortertiary",
+        "position": null,
+        "kittyId": 10,
+        "description": "granitegrey"
+      },
+      {
+        "type": "secret",
+        "position": -1,
+        "kittyId": 10,
+        "description": "se4"
+      },
+      {
+        "type": "purrstige",
+        "position": -1,
+        "kittyId": 10,
+        "description": "pu9"
+      }
+    ],
+    "is_prestige": false,
+    "auction": {},
+    "status": {
+      "pending_tx_type": null,
+      "pending_tx_since": null,
+      "is_ready": true,
+      "is_gestating": false,
+      "dynamic_cooldown": 1476222348804,
+      "cooldown_index": 0,
+      "cooldown_end_block": 0,
+      "cooldown": 1408971659699
+    },
+    "items": [],
+    "hatched": true,
+    "prestige_ranking": null,
+    "id": 10,
+    "owner": {
+      "twitter_image_url": null,
+      "twitter_id": null,
+      "twitter_handle": null,
+      "nickname": "Stimpson J. Cat",
+      "image": "19",
+      "hasDapper": false,
+      "address": "0x88207b431510dbe0addbdae3bd53013813fc8c71"
+    }
+  }

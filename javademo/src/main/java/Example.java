@@ -31,11 +31,12 @@ public class Example {
      * upload 上传文件
      */
     public static void upload(NftStorageApi apiInstance) {
-        // String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.jpg";
-        // String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.mp4";
+         String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.json";
+//         String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.jpg";
+//         String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.mp4";
 //        String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.gif";
 //        String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.png";
-        String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.mp3";
+//        String filePath = "/home/yqq/qiyichain/ipfs-upload-docs/go-demo/imgs/1.mp3";
 
         // 异步
         // apiInstance.storeAsync()

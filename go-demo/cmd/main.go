@@ -34,7 +34,8 @@ func upload() {
 	// client := nftstorage.NewAPIClient(cfg)
 
 	ctx := context.Background()
-	filepath := "../../imgs/1.png"
+	// filepath := "../../imgs/1.png"
+	filepath := "../../imgs/1.json"
 	// filepath := "../../imgs/1.gif"
 	// filepath := "../../imgs/1.jpg"
 	// filepath := "../../imgs/1.mp4"
