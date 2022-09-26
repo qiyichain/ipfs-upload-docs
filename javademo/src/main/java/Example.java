@@ -93,9 +93,9 @@ public class Example {
 
         NftStorageApi apiInstance = new NftStorageApi(defaultClient);
 
-        upload(apiInstance);
+//        upload(apiInstance);
 
-//        list(apiInstance);
+        list(apiInstance);
 
 //        getstatus(apiInstance);
 
