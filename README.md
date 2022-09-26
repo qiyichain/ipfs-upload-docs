@@ -13,7 +13,14 @@ upload image to ipfs and storage permanently
 
 
 
-# Demo实现
+# Demo实现(基于nft.storage)
 
-- [golang-Demo实现(基于nft.storage)](./go-demo/README.md)
+上传文件类型支持(包括但不限于):
+- `.jpg`
+- `.png`
+- `.gif`
+- `.mp3`
+- `.mp4`
 
+- [go的demo实现](./go-demo/)
+- [java的demo实现](./javademo/)

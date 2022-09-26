@@ -1,3 +1,10 @@
+/**
+ * author: yqq
+ * date: 2022-09-26
+ * description: golang 实现nft.storage上传和状态查询的demo
+ */
+
+
 package main
 
 import (
@@ -28,6 +35,10 @@ func upload() {
 
 	ctx := context.Background()
 	filepath := "../../imgs/1.png"
+	// filepath := "../../imgs/1.gif"
+	// filepath := "../../imgs/1.jpg"
+	// filepath := "../../imgs/1.mp4"
+	// filepath := "../../imgs/1.mp3"
 	file, err := os.Open(filepath)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "file not found: %v\n", err)
